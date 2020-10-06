@@ -46,5 +46,11 @@ function myAnimal() {
     return n + two;
   }
   
-  
+  var funkyFunction = function() {
+    return function(){
+      return "FUNKY!"
+    }
+}
+
+
   
