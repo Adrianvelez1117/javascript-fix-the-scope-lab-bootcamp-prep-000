@@ -52,6 +52,13 @@ function myAnimal() {
     }
 }
 
+ var funkyFunction = function() {
+    return function(){
+      return "FUNKY!"
+    }
+  }
+
+  var theFunk = funkyFunction()()
 
 
   
