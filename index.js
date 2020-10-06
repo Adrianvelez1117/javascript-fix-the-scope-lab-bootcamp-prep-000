@@ -48,7 +48,7 @@ function myAnimal() {
   
   var funkyFunction = function() {
     return function(){
-      return "FUNKY!"
+      return 'function'
     }
 }
 
