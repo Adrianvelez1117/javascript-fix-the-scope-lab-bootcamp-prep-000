@@ -31,10 +31,6 @@ var funkyFunction = function() {
 // NOTE: you only need to modify the code below this line.
 var theFunk = funkyFunction
 
-function myAnimal() {
-    var animal = 'dog';
-    return animal;
-  }
   
    function yourAnimal() {
     var animal = 'cat';
